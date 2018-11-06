@@ -7,6 +7,7 @@ import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.ListView;
+import android.widget.RadioGroup;
 import android.widget.Spinner;
 
 public class MainActivity extends AppCompatActivity {
@@ -16,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
     EditText lblApellidos;
     EditText lblEdad;
     Spinner lista;
-
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -9,8 +9,7 @@
     <string name="btnHombre">Man</string>
     <string name="btnMujer">Woman</string>
     <string name="txtEstado">Civil status</string>
-    <String name="txtHijos">He has children</String>
-    <string name="btnEjemplo">Example</string>
+    <string name="btnEjemplo">Generar</string>
     <string name="txtHijos" translatable="false">He has children</string>
     <string name="Estatus">What is your marital status ?</string>
     <string name="Separado">" Separated"</string>

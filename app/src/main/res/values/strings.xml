@@ -8,7 +8,7 @@
     <string name="btnHombre">Hombre</string>
     <string name="btnMujer">Mujer</string>
     <string name="txtEstado">Estado civil</string>
-    <string name="txtHijos" translatable="false">Tine hijos</string>
-    <string name="btnEjemplo">Ejemplo</string>
+    <string name="txtHijos">Tine hijos</string>
+    <string name="btnEjemplo">Generar</string>
 
     </resources>
