@@ -10,5 +10,7 @@
     <string name="txtEstado">Estado civil</string>
     <string name="txtHijos">Tine hijos</string>
     <string name="btnEjemplo">Generar</string>
+    <string name="switchSi">Sí</string>
+    <string name="switchNo">No</string>
 
     </resources>

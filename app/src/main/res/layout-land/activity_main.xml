@@ -155,8 +155,14 @@
             android:textSize="18sp" />
 
         <Switch
+            android:id="@+id/switchHijo"
             android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+            android:layout_height="match_parent"
+            android:checked="false"
+            android:showText="true"
+            android:textOff="@string/switchNo"
+            android:textOn="@string/switchSi"
+            tools:checked="false" />
 
     </LinearLayout>
 
